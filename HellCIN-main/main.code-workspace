@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"raylib.h": "c",
+			"math.h": "c",
+			"blocks.h": "c",
+			"stdio.h": "c",
+			"animations.h" : "c",
+			"collision.h":"c",
+			"menu.h" : "c",
+			"*.m": "c"
+		}
+	}
+}
